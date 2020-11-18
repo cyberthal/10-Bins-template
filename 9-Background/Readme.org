@@ -1,0 +1,30 @@
+* Background info
+
+=9-Background= is a directory for background content.
+
+Everything that doesn't go in the other =2-Linked= 10 Bins, but belongs in =2-Linked=, goes here.
+
+Background info is knowledge that is not actionable.
+
+Suggested subdirectories:
+
+#+begin_src 
+1-persint
+Arts-entertainment
+Business-money
+Crafts-trades-hobbies-home
+Education-teaching-reference
+Family-relationships
+Health-fitness
+History-future
+Law
+Library
+Math-science
+Political-social
+Religion-spirituality
+Self-help
+Tech
+Violence-sports-outdoors
+#+end_src
+
+This list can be reused for =8-Action= and =1-Agenda/8-Action=.

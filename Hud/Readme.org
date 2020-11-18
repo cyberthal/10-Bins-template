@@ -1,0 +1,10 @@
+* Head-Up Display
+
+Hud is the directory where the majority of your activity occurs.  It shows what you are doing right now.
+
+It is like the Heads-Up Display (HUD) of an airplane cockpit.  It's what you look at while you're switching tasks and doing light to medium work.
+
+It contains three files:
+- ='1sprinting.org=
+- ='2sprinted.org=
+- ='3dashboard.org=

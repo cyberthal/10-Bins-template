@@ -1,0 +1,9 @@
+* Hyperlinked prose
+
+=2-Linked= is a directory for your linked prose.  It is within Org's secondary search scope.  Directories are searched recursively, so use as much tree depth as you need.
+
+Org link search finds GUIDs (Globally Unique IDentifiers) in =1-Agenda= and =2-Linked=.  Org agenda search only finds headings in =1-Agenda=.
+
+=2-Linked= searches can rely on cached results, whereas =1-Agenda= searches cannot.  Therefore the former can store much more text than the latter, without causing excessive lag.
+
+To read more about GUID link searches, see Textmind/by-Part/Org-mode/org-id.

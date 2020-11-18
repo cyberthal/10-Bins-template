@@ -1,0 +1,13 @@
+* It's all part of the plan
+
+=8-Action= is a directory for actionable headings.
+
+"People should be nicer to each other" is not actionable (by you).  "Be nicer to people" is actionable by you.
+
+A dissertation on why people should be nice to each other goes in =9-Background= (or perhaps =3-Names= if you'd rather file it by author.)
+
+Your 12-step plan to start treating people better goes under =8-Action=.
+
+These actionables won't show up in Org agenda.  So this is a good place for headings you're considering doing, or have deferred.  
+
+Complex prose plans should go here.  The specific actionables they generate can then migrate to =1-Agenda=.

@@ -1,0 +1,14 @@
+#+STARTUP: showall
+
+* Rambling [2020-11-13 Fri 15:49]
+
+** get template
+
+downloaded the template.
+looks good!
+[2020-11-13 Fri 20:11]
+
+** make more sample text
+
+lorem ipsum.  ipso facto.  quod libet?
+[2020-11-13 Fri 20:12]

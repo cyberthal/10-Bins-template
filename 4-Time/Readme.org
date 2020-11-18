@@ -1,0 +1,20 @@
+* by Time
+
+=4-Time= is a directory for content that should be filed by time.
+
+Dates are time.  Money is also stored time.
+
+Suggested subdirectories emphasize the distinction between your time and others':
+
+#+begin_src
+1-me
+2-not-me
+#+end_src
+
+Under =1-me=, suggested subdirectories distinguish types of time:
+
+#+begin_src
+Economic
+Journal
+Schedule
+#+end_src

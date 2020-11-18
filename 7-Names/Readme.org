@@ -1,0 +1,37 @@
+* by Name
+
+=7-Names= is a directory for content that should be filed by name.
+
+You know many names: of people, websites, brands, organizations, communities, etc.
+
+Suggested subdirectories:
+#+begin_src
+1-persInt
+2-flat
+3-hierarchical
+#+end_src
+
+=2-flat= is for unambiguous names you both recognize and recall.  If you don't recall the name on demand, then it's effectively lost in the list!
+
+=2-flat= contains a flat list of names.  Each name is already a primary category in your mind.  So why bury them deeper in the tree?
+
+=3-hierarchical= is for names that don't qualify for =2-flat=.  These names must be categorized hierarchically to make them retrievable on demand.  Suggested subdirectories:
+
+#+begin_src
+1-individuals
+2-non-individuals
+#+end_src
+
+Suggested subdirectories of =1-individuals=:
+
+#+begin_src 
+1-persinter
+2-bidirectional
+3-unidirectional
+#+end_src
+
+=2-bidirectional= means that the individual has some relationship to you.  Perhaps he knows you, or you've at least conversed once.
+
+=3-unidirectional= means you have a relationship with him, but he has no relationship with you.  For example, you probably know about many famous people, but they don't know about you.  Thus the relationship is unidirectional.
+
+The purpose of this division is to push upwards warmer prospective contacts, and those more relevant to you.  Most of your relationships will be unidirectional, unless you're both famous and influential, so the few whom you've interacted with are more important.
