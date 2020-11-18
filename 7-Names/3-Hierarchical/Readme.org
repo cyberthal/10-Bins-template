@@ -1,0 +1,5 @@
+=3-hierarchical= is for names that don't qualify for =2-flat=.  These names must be categorized hierarchically to make them retrievable on demand. 
+
+Arrange them to maximize retrievability when needed.  That means a deep tree hierarchy.  Redundancy is inevitable.  Better to retrieve some info than none.  
+
+You can always clean it up later when you decide on an unambiguous name.
