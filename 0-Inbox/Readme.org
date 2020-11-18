@@ -1,0 +1,11 @@
+* Ephemeral Inbox
+
+Treefactor automatically creates a =0-Inbox= when it refiles objects.
+
+If you see a =0-Inbox=, refile its contents ASAP.  Otherwise you may lose track of important info inside it.
+
+Refiling creates more Inboxes, of course.  But they're deeper in the outline, where you won't see them unless you're working on that area.  
+
+If the Inboxes are buried out of sight, chances are good they don't have anything relevant to what you're doing now.
+
+Remember that info in an Inbox may be misfiled.  It could belong in a completely different section of the tree.  Don't assume its contents.
