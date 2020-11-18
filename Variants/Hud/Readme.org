@@ -1,10 +1,9 @@
 * Head-Up Display
 
-Hud is the directory where the majority of your activity occurs.  It shows what you are doing right now.
+This special directory occurs only once in a Textmind or Binmind.  
 
-It is like the Heads-Up Display (HUD) of an airplane cockpit.  It's what you look at while you're switching tasks and doing light to medium work.
+It's a special workspace where new info is forged, that hasn't been filed into 10 Bins yet.  
 
-It contains three files:
-- ='1sprinting.org=
-- ='2sprinted.org=
-- ='3dashboard.org=
+In Textmind, it's designed to facilitate rambling guided by a dashboard.
+
+You could do something similar in Binmind.  The exact implementation would depend on what software you were using.  For example, you might start a new Adobe Illustrator project in your Hud, until you decided where to file it.

@@ -1,5 +1,0 @@
-#+STARTUP: overview
-* Completed Rambles
-** dupe and split
-*** Log copies: send to /4-Time
-*** Work copies: send up with H-g
