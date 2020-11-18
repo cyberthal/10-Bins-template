@@ -7,3 +7,5 @@
 A dissertation on why people should be nice to each other goes in =9-Background= (or perhaps =3-Names= if you'd rather file it by author.)
 
 Your 12-step plan to start treating people better goes under =8-Action=.
+
+Use the same subdirectories as =9-Background=.  But don't add a directory until you have something to put inside of it.  That just creates misleading clutter.
