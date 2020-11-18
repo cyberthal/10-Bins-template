@@ -1,4 +1,6 @@
-Complex ambiguous prose plans don't go here.  Only the actionables they generate go in the Agenda.
+What if 10 Bins is deployed in an agenda or task manager?
+
+Complex ambiguous prose plans don't go here.  Only the actionables they generate go in the agenda.
 
 This allows agenda tasks to be rankable against each other.  It should be easy to rerank them according to available resources, mood and fancy.
 

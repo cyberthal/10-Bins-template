@@ -1,9 +1,29 @@
-* Hyperlinked prose
+* 10 Bins organizes your life
 
-=2-Linked= is a directory for your linked prose.  It is within Org's secondary search scope.  Directories are searched recursively, so use as much tree depth as you need.
+** Intro
 
-Org link search finds GUIDs (Globally Unique IDentifiers) in =1-Agenda= and =2-Linked=.  Org agenda search only finds headings in =1-Agenda=.
+Treefactor is a software tool that allows rapidly filing objects in a directory tree.  
 
-=2-Linked= searches can rely on cached results, whereas =1-Agenda= searches cannot.  Therefore the former can store much more text than the latter, without causing excessive lag.
+However, having a fast tool doesn't help much if you can't decide where things should go!
 
-To read more about GUID link searches, see Textmind/by-Part/Org-mode/org-id.
+That sounds like a joke, but it's not.  Deciding where to file your personal information is surprisingly difficult.  Keeping it synced to reflect changes in the world and yourself is even harder.
+
+10 Bins solves this problem, making filing easy, automatic and reliable.
+
+10 Bins is a directory structure and set of filing rules.  It's called "10 Bins" because there are 10 standard directories, numbered 0 through 9 for quick access.
+
+** Reading order
+
+Each directory contains a =Readme.org= explaining its purpose.  The documentation avoids repetition.
+
+Before reading more than one level deep in the tree, first read =7-Names/Readme.org=.  "Solid names" is a conceptual prerequisite.
+
+** Cascade matching
+
+Always sort in alphabetical order.
+
+Lower-number matches outrank higher-number matches.
+
+In other words, earlier matches beat later ones.
+
+For example, "Germany" is both a location and a name.  =5-Location= is earlier than =7-Names=, so "Germany" belongs in the former.
