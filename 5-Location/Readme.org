@@ -7,24 +7,3 @@ Your house is a place.  So is the moon.
 Your body isn't a place; it's an object.
 
 The USA is a place.  Its government can be considered a subset of that place.  American people, however, are a group that includes expats and travelers.  Only information that is about Americans within the USA should go here.
-
-A suggested list of subdirectories:
-
-#+begin_quote
-1-name \\
-Africa \\
-Eurasia \\
-Global \\
-New-world \\
-Oceania \\
-Polar \\
-Planar \\
-Space \\
-[[https://en.wikipedia.org/wiki/World_Ocean][World-ocean]]
-#+end_quote
-
-Planar refers to other dimensions, fictional or real.  For example, Heaven and Narnia.
-
-The New World refers to North and South America.
-
-=1-name= refers to places with a single unique name.  These may be stored in a flat alphabetical list for ease of access.

@@ -1,27 +1,9 @@
 * Object oriented
 
-6-Object is a directory for headings pertaining to objects. 
+=6-Object= is a directory for headings pertaining to objects. 
 
 Your car and your computer are objects.  You are a person but your body is an object.  The Earth is a place, not an object.
 
-Suggested subdirectories:
-#+begin_src
-1-persint
-2-Name
-3-Substance
-4-Type
-5-Func
-6-Department
-#+end_src
-
-Name - flat list of objects with a single unique memorable name.
-
-Substance - what it's made of.  For example, paper and water.
-
-Type - what kind of thing it is.  E.g. containers, food, electronics.
-
-Func - what it's for.  E.g. travel kit, cooking equipment.
-
-Department - what department it would be sold under.  If something defies categorization by other means, someone still has to sell it.
-
 Use cascade matching.  Vertically higher matches outrank lower ones.  Water is both a substance and has a single unique memorable name, so it should go under =2-Name=.
+
+I haven't tried to systematically file by chemical formula.  However, I recommend doing so under =6-Object/2-Name/#-Chemical-formulae=, because the names are solid.  # here means pick whatever number.  Use a subdirectory to prevent the profusion of number-heavy chemical formula from ruining the ergonomics of the rest of =2-Name=.

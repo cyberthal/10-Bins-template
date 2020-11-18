@@ -1,5 +1,7 @@
-If a place has a single unique memorable name, file it here for easy access.
+This directory contains a flat alphabetical list of names for easy access.
+
+If a place has a single unique memorable name, file it here.
 
 For frequent names, you can bend those requirements a bit.
 
-For example, the proper name is "United States of America".  But you can symlink Usa to that.
+For example, the proper name is "United States of America".  But you can symlink "Usa" to that.

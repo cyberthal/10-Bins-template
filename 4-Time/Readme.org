@@ -10,11 +10,3 @@ Suggested subdirectories emphasize the distinction between your time and others'
 1-me
 2-not-me
 #+end_src
-
-Under =1-me=, suggested subdirectories distinguish types of time:
-
-#+begin_src
-Economic
-Journal
-Schedule
-#+end_src
