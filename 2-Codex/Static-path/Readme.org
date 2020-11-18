@@ -1,3 +1,3 @@
 Sometimes scripts need code to be at a predictable location.
 
-This obscure corner can remain unchanged without ever obstructing your Textmind's evolution.
+The path of this obscure directory can remain unchanged without ever obstructing your 10-Bin's evolution.

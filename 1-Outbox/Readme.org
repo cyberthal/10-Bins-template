@@ -27,3 +27,7 @@ Keep an eye on its contents as they accumulate.  Batch export them when needed.
 If you're exporting one subdirectory, you may as well export them all.  Otherwise contents may accumulate indefinitely in a subdirectory whose destination doesn't generate conscious demand for export.
 
 If you've totally forgotten what's in =1-Outbox=, and it's got lots of content, you'd better batch export before working on any of the destination repos.  Otherwise you might be forgetting something important.
+
+** One per repo
+
+Each repo should have only one =1-Outbox=.  This consolidates batch exporting.

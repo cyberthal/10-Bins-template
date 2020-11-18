@@ -1,7 +1,15 @@
-* The C-suite
+* Your personal workspace
 
-Executive is a directory for headings that related to your life's executive leadership.
+Think of Persinter as your personal workspace, free of the restrictions that bind the rest of 10 Bins.  Here you may break the rules to get stuff done.
 
-In other words, it's for high-level goals, strategy and contingencies.
+"Persinter" is a portmanteau of "personal" and "interstitial".
 
-Your master checklists go here, since they control your life rhythm.
+"Personal" refers to that which is especially specific or relevant to you.  For example, the eruption of a volcano next door is not specific to you, but it is highly relevant to you.  Your current plans and problems are both specific and relevant to you, such as escaping said volcano.
+
+"Interstitial" refers to that which falls between the gaps of the 10-Bins tree structure.  If an unimportant object is difficult to categorize, just throw it anywhere that's a passable fit.  Persinter is for at least moderately-important interstitial objects.
+
+In the aforementioned Vesuvian emergency, you are advised to create the directory =3-Persinter/Volcano= and throw your critical escape info there.  Then focus on that directory and ignore the rest of 10 Bins.
+
+Once you are safely beyond the disaster zone, you may refile the contents of Volcano at your leisure.  Persinter evolves more rapidly than the rest of 10 Bins, to sync with what's at the top of your mind.
+
+Persinter is a good place to put files you frequently access.
