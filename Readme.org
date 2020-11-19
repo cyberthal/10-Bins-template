@@ -2,7 +2,7 @@
 
 ** What is it?
 
-Treefactor is a software tool that allows rapidly filing objects in a directory tree.  
+[[http://treefactor-docs.nfshost.com][Treefactor]] is a software tool that allows rapidly filing objects in a directory tree.  
 
 However, having a fast tool doesn't help much if you can't decide where things should go!
 
@@ -11,6 +11,8 @@ That sounds like a joke, but it's not.  Deciding where to file your personal inf
 10 Bins solves this problem, making filing easy, automatic and reliable.
 
 10 Bins is a directory structure and set of filing rules.  It's called "10 Bins" because there are 10 standard directories, numbered 0 through 9 for quick access.
+
+10 Bins is part of Cyborganize.  To learn more, visit http://cyberthal-docs.nfshost.com
 
 ** Reading order
 
