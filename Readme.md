@@ -1,27 +1,27 @@
 
 # Table of Contents
 
-1.  [10 Bins organizes your life](#org8951f9f)
-    1.  [What is it?](#org97b50a9)
-    2.  [Reading order](#orgc76bba8)
-    3.  [Cascade matching](#org6217aec)
-    4.  [Descending priority-density and stability](#org37be5e3)
-        1.  [Priority density](#org92fd0a2)
-        2.  [Stability](#orgfa6d0e4)
-        3.  [Priority density again](#org9b1624d)
-    5.  [Skimming the cream](#org4efd41f)
+1.  [10 Bins organizes your life](#orgbc2b0f3)
+    1.  [What is it?](#org73168cf)
+    2.  [Reading order](#org35eb248)
+    3.  [Cascade matching](#orgd7c9261)
+    4.  [Descending priority-density and stability](#org112d0d4)
+        1.  [Priority density](#org5af8a9c)
+        2.  [Stability](#org3811010)
+        3.  [Priority density again](#org9f91ffc)
+    5.  [Skimming the cream](#orge26deb7)
 
 
-<a id="org8951f9f"></a>
+<a id="orgbc2b0f3"></a>
 
 # 10 Bins organizes your life
 
 
-<a id="org97b50a9"></a>
+<a id="org73168cf"></a>
 
 ## What is it?
 
-Treefactor is a software tool that allows rapidly filing objects in a directory tree.  
+[Treefactor](http://treefactor-docs.nfshost.com) is a software tool that allows rapidly filing objects in a directory tree.  
 
 However, having a fast tool doesn't help much if you can't decide where things should go!
 
@@ -31,8 +31,10 @@ That sounds like a joke, but it's not.  Deciding where to file your personal inf
 
 10 Bins is a directory structure and set of filing rules.  It's called "10 Bins" because there are 10 standard directories, numbered 0 through 9 for quick access.
 
+10 Bins is part of Cyborganize.  To learn more, visit <http://cyberthal-docs.nfshost.com>
 
-<a id="orgc76bba8"></a>
+
+<a id="org35eb248"></a>
 
 ## Reading order
 
@@ -43,7 +45,7 @@ For example, "Persinter" is defined in `3-Persinter`.  This definition is not re
 "Solid names" is a conceptual prerequisite for "Name" directories and any directories cascade downstream.  "Solid names" is defined at `7-Names/2-Flat/Readme.org`.
 
 
-<a id="org6217aec"></a>
+<a id="orgd7c9261"></a>
 
 ## Cascade matching
 
@@ -56,7 +58,7 @@ In other words, earlier matches beat later ones.
 For example, "Germany" is both a location and a name.  `5-Location` is earlier than `7-Names`, so "Germany" belongs in the former.
 
 
-<a id="org37be5e3"></a>
+<a id="org112d0d4"></a>
 
 ## Descending priority-density and stability
 
@@ -65,7 +67,7 @@ Is it arrogant to assert that my idiosyncratic 10 Bins is an universally-correct
 No, because 10 Bins is supported by objective logic.  I'll explain.
 
 
-<a id="org92fd0a2"></a>
+<a id="org5af8a9c"></a>
 
 ### Priority density
 
@@ -86,7 +88,7 @@ Info varies by personal priority-density.  A single sentence critical to your su
 As you can see, these first four directories follow the rule of descending priority density.
 
 
-<a id="orgfa6d0e4"></a>
+<a id="org3811010"></a>
 
 ### Stability
 
@@ -103,7 +105,7 @@ Stable info has high retrievability and low maintenance cost.  The next four dir
 `7-Names` is next, because names are more dynamic than the above.  Nomenclature gradually evolves, creating ambiguity and maintenance cost.
 
 
-<a id="org9b1624d"></a>
+<a id="org9f91ffc"></a>
 
 ### Priority density again
 
@@ -112,7 +114,7 @@ The last two directories follow the priority-density rule again.
 `8-Action` contains much less info than `9-Background`.  Your plans are much more personally relevant than whatever background info helped you decide.
 
 
-<a id="org4efd41f"></a>
+<a id="orge26deb7"></a>
 
 ## Skimming the cream
 
