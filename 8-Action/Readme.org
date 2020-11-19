@@ -1,6 +1,4 @@
-* It's all part of the plan
-
-=8-Action= is a directory for actionable headings.
+=8-Action= is a directory for actionable info.
 
 "People should be nicer to each other" is not actionable (by you).  "Be nicer to people" is actionable by you.
 
@@ -8,4 +6,4 @@ A dissertation on why people should be nice to each other goes in =9-Background=
 
 Your 12-step plan to start treating people better goes under =8-Action=.
 
-Use the same subdirectories as =9-Background=.  But don't add a directory until you have something to put inside of it.  That just creates misleading clutter.
+Use the same subdirectories as =9-Background=.  But don't keep empty directories.  That just creates misleading clutter, which you don't want when getting a visual overview of your plans.

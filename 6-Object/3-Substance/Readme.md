@@ -1,0 +1,13 @@
+
+# Table of Contents
+
+
+
+What it's made of.  
+
+Due to cascade matching, only substances that fail `2-Name` go here.
+
+For example, "paper" is a solid name.  The nearest synonyms, such as "papyrus" or "sheet" or "cardboard", are distant.  It goes in `2-Name`.  
+
+However, "rock" and "stone" are synonymous, and neither is dominant.  Both go in `3-Substance`.
+

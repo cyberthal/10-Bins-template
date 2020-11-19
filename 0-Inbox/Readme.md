@@ -1,8 +1,16 @@
-* Ephemeral Inbox
 
-[[https://treefactor-docs.nfshost.com][Treefactor]] automatically creates a =0-Inbox= when it refiles objects.  Otherwise you must create it manually.
+# Table of Contents
 
-If you see a =0-Inbox=, refile its contents ASAP, to avoid losing track of potentially-important info.
+1.  [Ephemeral Inbox](#org6a333a4)
+
+
+<a id="org6a333a4"></a>
+
+# Ephemeral Inbox
+
+[Treefactor](https://treefactor-docs.nfshost.com) automatically creates a `0-Inbox` when it refiles objects.  Otherwise you must create it manually.
+
+If you see a `0-Inbox`, refile its contents ASAP, to avoid losing track of potentially-important info.
 
 Remember that info in an Inbox may be misfiled.  It could belong in a completely different section of the tree.  Don't assume its contents.
 
@@ -11,3 +19,4 @@ Refiling creates more Inboxes, of course.  But they're deeper in the outline, wh
 If an Inbox is buried out of sight, chances are good it's irrelevant.
 
 To avoid wrongly-buried Inboxes, be sure to promote a misfiled object as high as it should go before getting distracted.  Just walk back up the tree, refiling any Inbox you spot until you reach the top.
+

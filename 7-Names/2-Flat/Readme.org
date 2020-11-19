@@ -1,3 +1,5 @@
+* Solid names
+
 =2-flat= is for unambiguous names you both recognize and recall.  If you don't recall the name on demand, then it's effectively lost in the list!
 
 The target should have only one primary name.  Otherwise multiple directories can exist for the same target, dividing your files on the target, without you noticing!

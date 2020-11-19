@@ -1,10 +1,10 @@
-* Sparse machine matter
+* Beep boop
 
-2-Codex is a directory for content that is primarily intended for consumption by computers, not humans. 
+=2-Codex= is a directory for content that is primarily intended for consumption by computers, not humans. 
 
 =2-Codex= is focused on the machine-readable aspect of a file, such as its metadata fields, version history and path.
 
-Prose doesn't belong.  =2-Codex= isn't choked by large amounts of low-priority prose reading.  This keeps your important technical information sparse and accessible.
+Prose doesn't belong.  Keep it to a minimum.
 
 Code snippets belong here, before they migrate to their own repos.
 

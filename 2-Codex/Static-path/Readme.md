@@ -1,0 +1,9 @@
+
+# Table of Contents
+
+
+
+Sometimes scripts need a configuration file to be at a predictable path.
+
+The path of this obscure `Static-path` directory can remain unchanged without ever obstructing your 10-Bin's evolution.
+
