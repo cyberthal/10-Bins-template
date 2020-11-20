@@ -1,14 +1,9 @@
 
 # Table of Contents
 
-1.  [by Name](#org788022b)
 
 
-<a id="org788022b"></a>
+`7-Name` holds info classifiable by name: people, organizations, websites, books, etc.  This includes you.
 
-# by Name
-
-`7-Names` is a directory for content that should be filed by name.
-
-You know many names: people, websites, brands, organizations, communities, etc.
+Remember the cascade rule prioritizes matches that occur before `7-Name`.  Ergo there should be no objects in `7-Name`, because they belong in `6-Object`.
 

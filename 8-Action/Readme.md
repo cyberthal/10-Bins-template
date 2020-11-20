@@ -3,7 +3,7 @@
 
 
 
-`8-Action` is a directory for actionable info.
+`8-Action` holds non-temporal actionable info classifiable by task, project or plan.
 
 "People should be nicer to each other" is not actionable (by you).  "Be nicer to people" is actionable by you.
 

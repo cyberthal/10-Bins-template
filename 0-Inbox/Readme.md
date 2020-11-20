@@ -1,16 +1,18 @@
 
 # Table of Contents
 
-1.  [Ephemeral Inbox](#org6a333a4)
+1.  [Ephemeral Inbox](#org312f08c)
 
 
-<a id="org6a333a4"></a>
+<a id="org312f08c"></a>
 
 # Ephemeral Inbox
 
+`0-Inbox` is ephemeral.  If it exists, then sort its contents to empty, then delete it.
+
 [Treefactor](https://treefactor-docs.nfshost.com) automatically creates a `0-Inbox` when it refiles objects.  Otherwise you must create it manually.
 
-If you see a `0-Inbox`, refile its contents ASAP, to avoid losing track of potentially-important info.
+If you see a `0-Inbox`, refile its contents ASAP, to avoid losing track of potentially-important info.  Then delete it.
 
 Remember that info in an Inbox may be misfiled.  It could belong in a completely different section of the tree.  Don't assume its contents.
 

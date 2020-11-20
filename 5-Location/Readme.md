@@ -1,14 +1,9 @@
 
 # Table of Contents
 
-1.  [Geography and beyond](#orgd9a9268)
 
 
-<a id="orgd9a9268"></a>
-
-# Geography and beyond
-
-`5-Location` is a directory for content about places.
+`5-Location` holds info classifiable by place: rooms, countries, continents, planets, space, other planes of existence, Narnia, etc.
 
 Your house is a place.  So is the moon.
 

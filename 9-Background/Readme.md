@@ -3,9 +3,11 @@
 
 
 
-`9-Background` is a directory for background info.
+`9-Background` holds low-priority background info that doesn't fit into the other 10 Bins.  
 
 Background info is knowledge that is not actionable but provides useful context.
 
-Everything that doesn't belong in the other 10 Bins goes here.
+`9-Background` is like a reference library.  The Dewey Decimal Classification could work here, although I don't recommend it.  It's just helpful to realize that if Dewey Decimal went anywhere, it would be here.
+
+Everything that doesn't fit in the other 10 Bins goes here.
 

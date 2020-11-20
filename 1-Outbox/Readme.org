@@ -1,6 +1,6 @@
 * Queuing for departure
 
-=1-Outbox= is a directory for content that does not belong in this repo.
+=1-Outbox= stages files that belong in a different repo.  Batch exports on demand.
 
 It is permanent.  Don't delete it, even if it's empty.
 

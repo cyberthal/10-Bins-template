@@ -1,16 +1,11 @@
 
 # Table of Contents
 
-1.  [by Time](#orge4cb771)
 
 
-<a id="orge4cb771"></a>
+`4-Time` holds info classifiable by time or money: appointments, receipts and accounting, your journal and temporal plans, world history, etc.  
 
-# by Time
-
-`4-Time` is a directory for content that should be filed by time.
-
-Dates are time.  Money is also stored time.
+Money is stored time.
 
 Suggested subdirectories emphasize the distinction between your time and others':
 

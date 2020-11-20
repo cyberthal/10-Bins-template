@@ -1,23 +1,23 @@
 
 # Table of Contents
 
-1.  [Queuing for departure](#org55f827c)
-    1.  [Subdirectories by destination](#org36afcc5)
-        1.  [Don't delete empty subdirectories](#org2333a3e)
-    2.  [Batch export](#orge93e047)
-    3.  [One per repo](#org505c96f)
+1.  [Queuing for departure](#orga4c3d7d)
+    1.  [Subdirectories by destination](#orge25e5f3)
+        1.  [Don't delete empty subdirectories](#org806a4c1)
+    2.  [Batch export](#org402d648)
+    3.  [One per repo](#org0aef128)
 
 
-<a id="org55f827c"></a>
+<a id="orga4c3d7d"></a>
 
 # Queuing for departure
 
-`1-Outbox` is a directory for content that does not belong in this repo.
+`1-Outbox` stages files that belong in a different repo.  Batch exports on demand.
 
 It is permanent.  Don't delete it, even if it's empty.
 
 
-<a id="org36afcc5"></a>
+<a id="orge25e5f3"></a>
 
 ## Subdirectories by destination
 
@@ -26,7 +26,7 @@ Directories in `1-Outbox` represent destinations.
 Pubmind repos are the most likely destination for headings in the Textmind `1-Outbox`.
 
 
-<a id="org2333a3e"></a>
+<a id="org806a4c1"></a>
 
 ### Don't delete empty subdirectories
 
@@ -39,7 +39,7 @@ However, for regularly-used destinations, this would lead to inefficient repeate
 So you should keep common destination directories even when empty.
 
 
-<a id="orge93e047"></a>
+<a id="org402d648"></a>
 
 ## Batch export
 
@@ -50,7 +50,7 @@ If you're exporting one subdirectory, you may as well export them all.  Otherwis
 If you've totally forgotten what's in `1-Outbox`, and it holds lots of content, you'd better batch export before working on any of the destination repos.  Otherwise you might forget something important.
 
 
-<a id="org505c96f"></a>
+<a id="org0aef128"></a>
 
 ## One per repo
 
