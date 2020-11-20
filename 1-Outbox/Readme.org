@@ -22,12 +22,22 @@ So you should keep common destination directories even when empty.
 
 ** Batch export
 
-Keep an eye on =1-Outbox= contents as they accumulate.  Batch export them when needed.
+Treemind has main and satellite repos.  Textmind and Binmind are main repos.  Textmini and Binmini are satellite repos.
+
+For main repos, keep an eye on =1-Outbox= contents as they accumulate.  Batch export them when needed.
 
 If you're exporting one subdirectory, you may as well export them all.  Otherwise contents may accumulate indefinitely in a subdirectory whose destination doesn't generate conscious demand for export.
 
 If you've totally forgotten what's in =1-Outbox=, and it holds lots of content, you'd better batch export before working on any of the destination repos.  Otherwise you might forget something important.
 
+For satellite repos, batch export at the end of each work session.  Who knows when you'll return to that repo.  Leaving info in the Outbox risks misplacing it indefinitely.
+
+If the correct destination is uncertain, just return the object to the main repo.
+
 ** One per repo
 
-Each repo should have only one =1-Outbox=.  This consolidates batch exporting.
+Sometimes one repo has multiple 10 Bins instances.
+
+However, each repo should have only one =1-Outbox=.  
+
+This consolidates batch exporting, and prevents delays and misplacement.

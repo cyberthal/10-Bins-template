@@ -1,14 +1,14 @@
 
 # Table of Contents
 
-1.  [Queuing for departure](#orga4c3d7d)
-    1.  [Subdirectories by destination](#orge25e5f3)
-        1.  [Don't delete empty subdirectories](#org806a4c1)
-    2.  [Batch export](#org402d648)
-    3.  [One per repo](#org0aef128)
+1.  [Queuing for departure](#org0c9ef44)
+    1.  [Subdirectories by destination](#orgc16c79f)
+        1.  [Don't delete empty subdirectories](#orgd7aefae)
+    2.  [Batch export](#org38d9f70)
+    3.  [One per repo](#org5c27503)
 
 
-<a id="orga4c3d7d"></a>
+<a id="org0c9ef44"></a>
 
 # Queuing for departure
 
@@ -17,7 +17,7 @@
 It is permanent.  Don't delete it, even if it's empty.
 
 
-<a id="orge25e5f3"></a>
+<a id="orgc16c79f"></a>
 
 ## Subdirectories by destination
 
@@ -26,7 +26,7 @@ Directories in `1-Outbox` represent destinations.
 Pubmind repos are the most likely destination for headings in the Textmind `1-Outbox`.
 
 
-<a id="org806a4c1"></a>
+<a id="orgd7aefae"></a>
 
 ### Don't delete empty subdirectories
 
@@ -39,20 +39,30 @@ However, for regularly-used destinations, this would lead to inefficient repeate
 So you should keep common destination directories even when empty.
 
 
-<a id="org402d648"></a>
+<a id="org38d9f70"></a>
 
 ## Batch export
 
-Keep an eye on `1-Outbox` contents as they accumulate.  Batch export them when needed.
+Treemind has main and satellite repos.  Textmind and Binmind are main repos.  Textmini and Binmini are satellite repos.
+
+For main repos, keep an eye on `1-Outbox` contents as they accumulate.  Batch export them when needed.
 
 If you're exporting one subdirectory, you may as well export them all.  Otherwise contents may accumulate indefinitely in a subdirectory whose destination doesn't generate conscious demand for export.
 
 If you've totally forgotten what's in `1-Outbox`, and it holds lots of content, you'd better batch export before working on any of the destination repos.  Otherwise you might forget something important.
 
+For satellite repos, batch export at the end of each work session.  Who knows when you'll return to that repo.  Leaving info in the Outbox risks misplacing it indefinitely.
 
-<a id="org0aef128"></a>
+If the correct destination is uncertain, just return the object to the main repo.
+
+
+<a id="org5c27503"></a>
 
 ## One per repo
 
-Each repo should have only one `1-Outbox`.  This consolidates batch exporting.
+Sometimes one repo has multiple 10 Bins instances.
+
+However, each repo should have only one `1-Outbox`.  
+
+This consolidates batch exporting, and prevents delays and misplacement.
 

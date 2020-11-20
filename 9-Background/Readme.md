@@ -11,3 +11,7 @@ Background info is knowledge that is not actionable but provides useful context.
 
 Everything that doesn't fit in the other 10 Bins goes here.
 
+Oftentimes, working with concepts in `9-Background` results in durable additions to your personal nomenclature that permit refiling to `7-Name`.  This is part of learning.
+
+If unimportant info is categorically ambiguous, just file it wherever. Inaccuracy doesn't matter. Your biological brain is lossy, so your digital brain can be messy.
+
