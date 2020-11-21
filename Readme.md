@@ -1,26 +1,27 @@
 
 # Table of Contents
 
-1.  [10 Bins organizes your life](#org2224df1)
-    1.  [What is it?](#org58cd0a4)
-    2.  [Reading order](#org550a487)
-    3.  [Cascade matching](#org278884b)
-    4.  [Descending priority-density and filing-friendliness](#org61ee3b9)
-        1.  [Idiosyncratic?](#orgc363b22)
-        2.  [Design principles](#org5baa8b2)
-        3.  [Priority density](#orgf34f73a)
-        4.  [Filing friendliness](#org0130906)
-        5.  [Priority density again](#org5c931c0)
-        6.  [Case study: US Civil War](#org7c6db63)
-    5.  [Skimming the cream](#orgdecc6b6)
+1.  [10 Bins organizes your life](#org92c60c1)
+    1.  [What is it?](#orgd57fa70)
+    2.  [Reading order](#orgef44d3e)
+    3.  [Cascade matching](#org00c4124)
+    4.  [Descending priority-density and filing-friendliness](#orgf65fc9e)
+        1.  [Idiosyncratic?](#org0daec3c)
+        2.  [Design principles](#org9fff520)
+        3.  [Priority density](#orgcbb9665)
+        4.  [Filing friendliness](#org2a2f895)
+        5.  [Priority density again](#org094f1de)
+        6.  [Case study: US Civil War](#orgc76ef05)
+    5.  [Skimming the cream](#org75d79c6)
+    6.  [Links](#org6888e64)
 
 
-<a id="org2224df1"></a>
+<a id="org92c60c1"></a>
 
 # 10 Bins organizes your life
 
 
-<a id="org58cd0a4"></a>
+<a id="orgd57fa70"></a>
 
 ## What is it?
 
@@ -37,7 +38,7 @@ That sounds like a joke, but it's not.  Deciding where to file your personal inf
 10 Bins is part of Cyborganize.  To learn more, visit <http://cyberthal-docs.nfshost.com>
 
 
-<a id="org550a487"></a>
+<a id="orgef44d3e"></a>
 
 ## Reading order
 
@@ -48,7 +49,7 @@ For example, "Persinter" is defined in `3-Persinter`.  This definition is not re
 "Solid names" is a conceptual prerequisite for "Name" directories and any directories cascade downstream.  "Solid names" is defined at `7-Names/2-Flat/Readme.org`.
 
 
-<a id="org278884b"></a>
+<a id="org00c4124"></a>
 
 ## Cascade matching
 
@@ -63,12 +64,12 @@ In other words, earlier matches beat later ones.
 For example, "Germany" is both a location and a name.  `5-Location` is earlier than `7-Names`, so "Germany" belongs in the former.
 
 
-<a id="org61ee3b9"></a>
+<a id="orgf65fc9e"></a>
 
 ## Descending priority-density and filing-friendliness
 
 
-<a id="orgc363b22"></a>
+<a id="org0daec3c"></a>
 
 ### Idiosyncratic?
 
@@ -77,7 +78,7 @@ Is it arrogant to assert that my idiosyncratic 10 Bins is an universally-correct
 No, because 10 Bins is supported by objective logic.  Here's why.
 
 
-<a id="org5baa8b2"></a>
+<a id="org9fff520"></a>
 
 ### Design principles
 
@@ -96,7 +97,7 @@ These rules sound complicated in theory, but they're easy in practice:
 3.  Put things where you'll find them.
 
 
-<a id="orgf34f73a"></a>
+<a id="orgcbb9665"></a>
 
 ### Priority density
 
@@ -115,7 +116,7 @@ Info varies by personal priority-density.  A single sentence critical to your su
 As you can see, these first four directories follow the rule of descending priority density.
 
 
-<a id="org0130906"></a>
+<a id="org2a2f895"></a>
 
 ### Filing friendliness
 
@@ -132,7 +133,7 @@ Stable info has high retrievability and low maintenance cost.  The next four dir
 `7-Name` is next.  Names are more ephemeral than objects.  Your personal nomenclature evolves gradually.
 
 
-<a id="org5c931c0"></a>
+<a id="org094f1de"></a>
 
 ### Priority density again
 
@@ -143,7 +144,7 @@ The last two directories follow the priority-density rule again.
 `9-Background` is last.  It contains huge quantities of poorly-retrievable info, most of it easily replaceable.
 
 
-<a id="org7c6db63"></a>
+<a id="orgc76ef05"></a>
 
 ### Case study: US Civil War
 
@@ -152,7 +153,7 @@ Imagine you're filing info on the US Civil War.  Most would go in `5-Location` u
 Simple, right?
 
 
-<a id="orgdecc6b6"></a>
+<a id="org75d79c6"></a>
 
 ## Skimming the cream
 
@@ -161,4 +162,15 @@ The info that reaches `9-Background` is like skim milk.  All the creamy info, fu
 Since the cream always rises to the top, 10 Bins generates rich, delicious thoughts.
 
 This improves iterational velocity, accuracy, creativity, and effective intelligence.
+
+
+<a id="org6888e64"></a>
+
+## Links
+
+-   [Discord](https://discord.gg/QC8Jv6H)
+-   [Email](mailto:texas.cyberthal@gmail.com)
+
+-   [Main docs page](https://cyberthal-docs.nfshost.com)
+-   [Treefactor](http://treefactor-docs.nfshost.com)
 
